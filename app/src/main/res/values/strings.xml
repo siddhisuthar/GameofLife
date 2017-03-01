@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Game of Life</string>
+    <string name="button_next">Next</string>
+    <string name="button_reset">Reset</string>
+</resources>
